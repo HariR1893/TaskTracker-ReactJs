@@ -8,7 +8,6 @@ Task Tracker is a minimalist todo web application built with React for the front
 
 - **Intuitive Interface**: A clean and user-friendly interface for efficient task management.
 - **Real-time Updates**: Tasks are synchronized in real-time across all devices.
-- **Firebase Authentication**: Secure user authentication powered by Firebase.
 - **Responsive Design**: Access and manage your tasks on various devices seamlessly.
 
 ## Technologies Used
