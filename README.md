@@ -1,8 +1,18 @@
-# React + Vite
+# Task Tracker - Simple Todo Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+Task Tracker is a minimalist todo web application built with React for the frontend and styled using Tailwind CSS. The backend is powered by Firebase, providing a seamless and scalable solution for task management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Intuitive Interface**: A clean and user-friendly interface for efficient task management.
+- **Real-time Updates**: Tasks are synchronized in real-time across all devices.
+- **Firebase Authentication**: Secure user authentication powered by Firebase.
+- **Responsive Design**: Access and manage your tasks on various devices seamlessly.
+
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **Firebase**: A comprehensive platform for building web and mobile applications.
